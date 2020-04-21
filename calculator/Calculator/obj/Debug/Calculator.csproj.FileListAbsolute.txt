@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\User\Downloads\calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\User\Downloads\calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\User\Downloads\calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\User\Downloads\calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\User\Downloads\calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Serafima Foxy\Desktop\HW12 Auto\calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
